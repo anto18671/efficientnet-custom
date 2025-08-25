@@ -1,4 +1,3 @@
-````markdown
 # EfficientNet-Custom (PyTorch)
 
 A custom PyTorch implementation of **EfficientNet**, including **Squeeze-and-Excitation (SE)** blocks and **Mobile Inverted Bottleneck (MBConv)** blocks.  
@@ -25,6 +24,7 @@ Clone the repository:
 git clone https://github.com/anto18671/efficientnet-custom.git
 cd efficientnet-custom
 ```
+
 ````
 
 Install dependencies:
@@ -120,3 +120,4 @@ optimizer.step()
 
 This project is licensed under the MIT License.
 See the [LICENSE](LICENSE) file for details.
+````
