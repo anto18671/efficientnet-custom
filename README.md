@@ -30,7 +30,7 @@ cd efficientnet-custom
 Install dependencies:
 
 ```bash
-pip install torch torchvision
+pip install - r requirements.txt
 ```
 
 ---
