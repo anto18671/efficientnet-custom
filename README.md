@@ -25,8 +25,6 @@ git clone https://github.com/anto18671/efficientnet-custom.git
 cd efficientnet-custom
 ```
 
-````
-
 Install dependencies:
 
 ```bash
@@ -120,4 +118,7 @@ optimizer.step()
 
 This project is licensed under the MIT License.
 See the [LICENSE](LICENSE) file for details.
-````
+
+```
+
+```
